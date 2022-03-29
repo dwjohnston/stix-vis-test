@@ -26,6 +26,8 @@ yarn link
 
 ### Terminal 2 
 
+(nb these steps are just to avoid publishing to npm). 
+
 Check out this repo
 
 ```
